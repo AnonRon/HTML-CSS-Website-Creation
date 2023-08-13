@@ -1,0 +1,26 @@
+* modifying header class */
+.header {
+  background-color: Cornflowerblue;
+  text-align: center;
+}
+
+/* modifying about-me class */
+.about-me {
+  font-size: 20px;
+  opacity:0.50;
+}
+/* adjusting font weight for calss "title" */
+.title {
+  font-weight: bold;
+}
+
+/* h1 element set to specific color*/
+h1 {
+  color: Azure;
+}
+
+/* setting the body element to a different font family and adding background */
+body {
+  font-family: Georgia;
+  background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png')
+}
